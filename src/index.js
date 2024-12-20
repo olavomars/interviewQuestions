@@ -11,6 +11,6 @@ console.log(
   VALUE_TO_CONVERT,
   BASE_CURRENCY.toUpperCase(),
   " == ",
-  converted,
+  await converted,
   TARGET_CURRENCY.toUpperCase());
 
